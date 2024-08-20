@@ -15,3 +15,11 @@
     <!-- Добавьте больше элементов -->
 </ul>
 ```
+
+```css
+.scrolling-wrapper-flexbox {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+```
